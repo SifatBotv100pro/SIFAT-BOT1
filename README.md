@@ -44,7 +44,8 @@ Click thumbnail to watch full tutorial👆🏻
 </div>
 
 <p align="center">  
-  <a href="https://facebook.com/xrahat2"><img src="https://i.postimg.cc/pLHy2CJm/𝐑𝐀𝐇𝐀𝐓-𝐈𝐒𝐋𝐀𝐌.gif" alt="Facebook" width="48"></a>  
+  <a href="https://facebook.com/xrahat2"><img src="https://i.postimg.cc/pLHy2CJm
+                                       SK MUKUL BOSS.gif" alt="Facebook" width="48"></a>  
   <a href="https://t.me/education_of_purpose"><img src="https://i.postimg.cc/g0BY6H8Z/𝐑𝐀𝐇𝐀𝐓-𝐈𝐒𝐋𝐀𝐌.gif" alt="Telegram" width="46"></a>  
   <a href="https://youtube.com/@messenger_bot"><img src="https://i.postimg.cc/dVsvHx90/𝐑𝐀𝐇𝐀𝐓-𝐈𝐒𝐋𝐀𝐌.gif" alt="YouTube" width="60"></a>  
 </p>
