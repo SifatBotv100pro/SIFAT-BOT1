@@ -151,8 +151,6 @@ api.sendMessage({
 		console.error("[HELP] হেল্প মেনু পাঠাতে সমস্যা:", error);
 		
 		api.sendMessage(body, threadID, messageID);
-		<p align="center">
-  <img src="https://i.imgur.com/w6ZA3hR.jpeg" https="400">
-</p>
+		<p align="center
 	}
 };
